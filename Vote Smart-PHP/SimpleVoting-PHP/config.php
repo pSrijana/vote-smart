@@ -7,7 +7,9 @@ $database = "db_evoting";
 
 // Establish Connection
 $conn = mysqli_connect($hostname, $username, $password, $database);
-
+//helloo
+//hiii
+//good morning
 // UserInput Test
 function test_input($data, $conn) {
     $data = trim($data);
